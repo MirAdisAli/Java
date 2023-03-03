@@ -1,0 +1,22 @@
+172014045,Abdul Mohaimen,abdul.mohaimen.cse@ulab.edu.bd
+193014026,Aditi Bhattacharya,aditi.bhattacharya.cse@ulab.edu.bd
+191014021,Anika Tahsin,anika.tahsin1.cse@ulab.edu.bd
+193014073,Asjad Hossain Khan,asjad.hossain.cse@ulab.edu.bd
+181014069,Issrat Sharmin Shuhi,issrat.sharmin.cse@ulab.edu.bd
+173014009,Marzana Sultana,marzana.sultana.cse@ulab.edu.bd
+181014091,Md. Rakibul Hoque Joy,rakibul.hoque.cse@ulab.edu.bd
+182014015,Mir Adis Ali,adis.ali.cse@ulab.edu.bd
+173014029,Mohammad Majhar Ali,mohammad.majhar.cse@ulab.edu.bd
+193014027,Mohammad Fatin Anjum,mohammad.fatin.cse@ulab.edu.bd
+193014060,SAYEDA KARIMA,sayeda.karima.cse@ulab.edu.bd
+193014032,SUDIPTO KUMER DUTTA,sudipto.kumer.cse@ulab.edu.bd
+193014033,Sadia Afrin Ridita,sadia.afrin3.cse@ulab.edu.bd
+193014045,Sajid Alam,sajid.alam.cse@ulab.edu.bd
+181016023,Samia Howlader,samia.howlader.eee@ulab.edu.bd
+182014040,Sanjida Binte Jalal,sanjida.jalal.cse@ulab.edu.bd
+193014037,Sumaiya Jannat,sumaiya.jannat1.cse@ulab.edu.bd
+193014030,Tamanna Khanam,tamanna.khanam.cse@ulab.edu.bd
+181016009,Tanjida Rahman,tanjida.rahman.eee@ulab.edu.bd
+201014002,Tayba Rahman Khan,tayba.rahman.cse@ulab.edu.bd
+193014017,Towshick Intesir Ahmed Rain,towshick.intesir.cse@ulab.edu.bd
+193014003,Zaeed Mahmud,zaeed.mahmud.cse@ulab.edu.bd
